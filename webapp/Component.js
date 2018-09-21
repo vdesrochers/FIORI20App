@@ -5,7 +5,7 @@ sap.ui.define([
 	'sap/f/FlexibleColumnLayoutSemanticHelper'
 ], function(jQuery, UIComponent, JSONModel, FlexibleColumnLayoutSemanticHelper) {
 	'use strict';
-
+// TEST 14:54
 	return UIComponent.extend('sap.ui.demo.fiori2.Component', {
 
 		metadata: {
