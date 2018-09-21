@@ -3,7 +3,7 @@ sap.ui.define([
 	"sap/ui/core/mvc/Controller"
 ], function (JSONModel, Controller) {
 	"use strict";
-
+// TEST COMMIT 14:18
 	return Controller.extend("sap.ui.demo.fiori2.controller.App", {
 		onInit: function () {
 			this.oOwnerComponent = this.getOwnerComponent();
